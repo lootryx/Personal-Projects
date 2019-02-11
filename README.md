@@ -1,23 +1,21 @@
-# Chrome Extensions
----
-This is my intial experience/attempt at creating a Chrome extension. I mostly followed the directions from 'https://developer.chrome.com/extensions/getstarted' to achive this. 
-## Getting Started
----
-### Prerequisites
-* Chrome browser
-* Space and storage for multiple files
-* Text editor
-* Developer Mode enabled on the Chrome browser seen on 'chrome://extensions'
+MIT License
 
-### Installing the files for yourself
-* Download the zip of this directory or using the following link when cloning via console: 'https:://github.com'
-* Going to 'chrome://extensions', if you look at the top right extension, it should be the one this particular extension
-* From there, you can play around with it.
+Copyright (c) 2019 lootryx
 
-## Authors
----
-* **Benjamin Lee** 
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-## Acknowledgements
----
-This was a personal project done out of someone's recommendation and my own curiosity. 
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

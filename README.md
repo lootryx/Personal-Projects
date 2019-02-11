@@ -1,3 +1,8 @@
+# About
+---
+This is where I will be storing all of my personal projects. 
+
+---
 MIT License
 
 Copyright (c) 2019 lootryx
